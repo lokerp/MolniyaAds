@@ -28,6 +28,16 @@ export default {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
+        lightning: {
+          DEFAULT: "#FFD700",
+          light: "#FFEB3B",
+          dark: "#FFC107",
+        },
+        navy: {
+          DEFAULT: "#1E293B",
+          light: "#334155",
+          dark: "#0F172A",
+        },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
           foreground: "hsl(var(--secondary-foreground))",
